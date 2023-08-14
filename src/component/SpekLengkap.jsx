@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { AiFillCloseCircle } from "react-icons/ai";
-import { data } from "../pages/Data/ListingTerbaru/DataTerbaru.json";
+import data from "../pages/Data/ListingTerbaru/DataTerbaru.json";
 // import { Link, useParams } from "react-router-dom";
 import { useParams } from "next/navigation";
 import Link from "next/link";

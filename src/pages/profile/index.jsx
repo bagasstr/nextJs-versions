@@ -15,7 +15,7 @@ const Profile = () => {
         />
         <div className="w-full">
           <div className="bg-white shadow-lg absolute mx-auto px-4 pt-16 pb-10 rounded-md flex flex-col items-center left-0 right-0 top-60 w-[70rem] mobile:w-[22rem] mobile:px-2 desktop:w-[40rem]">
-            <div class="absolute w-24 h-24 -top-11 overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600">
+            <div className="absolute w-24 h-24 -top-11 overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600">
               <img src="/profile.jpg" alt="" className="w-full" />
             </div>
             <h1 className="text-black/80 mt-4 mb-2 font-semibold text-3xl">
